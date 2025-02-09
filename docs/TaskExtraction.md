@@ -23,4 +23,5 @@ Use zero-shot-classifcation to categorize text, and then based on category parse
 - - ~8 categories --> 8 unique pathways for parsing and taks creation
 
 
-
+#Notes as reminder, figure out task class json object how to make multiple objects and then go to openai prompt playground to help
+#notes what fields of the json object should i use ai to generate? can I append?
