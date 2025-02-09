@@ -1,1 +1,11 @@
-pip install spacy
+#pip install -r requirements.txt
+spacy
+dateparser
+transformers
+python-dotenv
+openai
+
+
+#Set-ExecutionPolicy Unrestricted -Scope Process
+#.env\Scripts\Activate.ps1 or Buddy\.env\Scripts\Activate.ps1 or .\Buddy\.venv\Scripts\Activate.ps1
+#python -c "import sys; print(sys.prefix)"
