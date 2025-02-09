@@ -93,3 +93,5 @@ Since the user **isn’t manually adding tasks**, your system will **auto-popula
 2. **Implement Auto-Categorization** (Map `user_category` + `task_type`).  
 3. **Set Up Task Execution Rules** (Reminders, Rescheduling, Priority Adjustments).  
 
+
+
