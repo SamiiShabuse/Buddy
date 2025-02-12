@@ -6,7 +6,7 @@ import json
 app = FastAPI()
 
 # Load Firebase credentials
-firebase_key_path = "firebase-key.json"
+firebase_key_path = "config/firebase-key.json"
 db = firestore.Client.from_service_account_json(firebase_key_path)
 
 # 📌 Test Route
