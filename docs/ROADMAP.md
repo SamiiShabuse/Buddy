@@ -19,3 +19,5 @@
 |---------|------------|
 | Google Calendar API Integration | TBD |
 | Frontend Widget Prototype | TBD |
+| Database | `feature/database` |
+
