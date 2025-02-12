@@ -10,3 +10,6 @@
 	- Cheapest and most scalable solution.
 	- Easy maintenance
 	- Commonly paired with Firebase in every project.
+
+# What Samii Did
+- [Enabling Cloud Firestore API](https://console.cloud.google.com/apis/api/firestore.googleapis.com/metrics?project=buddy-54857)
