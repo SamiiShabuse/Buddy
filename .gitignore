@@ -1,0 +1,18 @@
+# Ignore Firebase key
+config/firebase-key.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore logs
+logs/
+*.log
